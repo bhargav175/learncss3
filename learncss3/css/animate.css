@@ -129,4 +129,14 @@ body{
     80% {transform:rotate3d(0,0,0,0deg) }
     100%{}
 }
+.hoverZoom{
+    transition:1s;
+    -webkit-transition:1s;
+
+}
+.hoverZoom:hover{
+
+    transform:scale(1.5,1.5);
+    -webkit-transform:scale(1.5,1.5);
+}
 
