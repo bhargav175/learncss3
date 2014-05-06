@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+h4{
+    margin:0;
+    line-height: 50px;
+
+}
+
+body{
+    padding:20px;
+}
+.content-wrapper{
+    width:1000px;
+    height:600px;
+    background:#f5f5f5;
+    box-shadow: 3px 3px 3px -2px black;
+    padding:2px;
+}
+.content-wrapper > * {
+    padding:5px;
+    position: relative;
+
+}
+.content-wrapper>.content-header,.content-footer{
+    height:20%;
+    background: white;
+}
+.content-wrapper .content-body{
+    height:60%;
+    padding:5px;
+    background: transparent;
+}
+.container{
+    margin:auto;
+    width:90%;
+    position: relative;
+}
+.p-container{
+    height:50px;
+    position:relative;
+}
+p{
+    position: relative;
+}
+

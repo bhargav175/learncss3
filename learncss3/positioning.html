@@ -15,7 +15,6 @@
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/animate.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
     <body>
@@ -28,34 +27,27 @@
         <div class="content-wrapper">
             <div class="content-header">
                 <div class="container">
-                    <h4>Learn CSS3</h4>
+                    <h4>A Relatively Positioned Div Displaced using top and left attributes</h4>
                 </div>
             </div>
             <div class="content-body">
                 <div class="container">
-                    <div class="p-container">
-                        <p class="slideLeft animate">Slide Left</p>
-                    </div>
+                  <div style="position:relative;background:red;width:100px;height:100px;padding:5px;margin:15px; float:left;">
+                      <div style="position:relative;height:100%;background:blue;left:-15px;"></div>
 
-                    <div class="p-container">
-                        <p class="slideRight animate ">Slide Right</p>
+                  </div>
+                    <div style="position:relative;background:red;width:100px;height:100px;padding:5px;margin:15px; float:left;">
+                      <div style="position:relative;height:100%;background:blue;left:15px;"></div>
 
-                    </div>
-                    <div class="p-container">
-                        <p class="slideTop animate">Slide Top</p>
+                  </div>
+                    <div style="position:relative;background:red;width:100px;height:100px;padding:5px;margin:15px; float:left;">
+                      <div style="position:relative;height:100%;background:blue;top:15px;"></div>
 
-                    </div>
-                    <div class="p-container">
-                        <p class="riseUp animate" >Rise Up</p>
+                  </div>
+                    <div style="position:relative;background:red;width:100px;height:100px;padding:5px;margin:15px; float:left;">
+                      <div style="position:relative;height:100%;background:blue;top:-15px;"></div>
 
-                    </div>
-                    <div class="p-container">
-                        <p class="flyIn animate">Fly In</p>
-
-                    </div>
-                    <div class="p-container"></div>
-
-
+                  </div>
 
                 </div>
             </div>
