@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac16e921-970e-4a33-9460-1a743227962d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learncss3/learncss3.iml" afterPath="$PROJECT_DIR$/learncss3/learncss3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learncss3/css/style.css" afterPath="$PROJECT_DIR$/learncss3/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learncss3.iws" />
@@ -152,7 +150,7 @@
       <file leaf-file-name="box.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/learncss3/css/box.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.10526316" vertical-offset="973" max-vertical-offset="1700">
+            <state line="61" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.105610564" vertical-offset="973" max-vertical-offset="1700">
               <folding />
             </state>
           </provider>
@@ -164,6 +162,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -567,12 +568,17 @@
       <created>1399383627074</created>
       <updated>1399383627074</updated>
       <workItem from="1399383630276" duration="13128000" />
-      <workItem from="1399542914455" duration="4656000" />
+      <workItem from="1399542914455" duration="4687000" />
     </task>
+    <task id="LOCAL-00001" summary="Box shadow and border&#10;">
+      <created>1399558319078</created>
+      <updated>1399558319078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17784000" />
+    <option name="totallyTimeSpent" value="17815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1382" height="784" extended-state="6" />
@@ -590,6 +596,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -616,6 +623,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Box shadow and border&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Box shadow and border&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -749,7 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learncss3/css/box.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.10526316" vertical-offset="973" max-vertical-offset="1700">
+        <state line="61" column="0" selection-start="1468" selection-end="1468" vertical-scroll-proportion="0.105610564" vertical-offset="973" max-vertical-offset="1700">
           <folding />
         </state>
       </provider>
